@@ -1,0 +1,19 @@
+body
+{
+    padding: 10%;
+    margin: 250px;
+    box-shadow: inset;
+    background-color: beige;
+}
+.list input
+{
+    display: flex;
+}
+.confirm a{
+    text-decoration: none;
+    color: black;
+}
+.order
+{
+    display: flex;
+}

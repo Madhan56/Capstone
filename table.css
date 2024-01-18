@@ -1,0 +1,16 @@
+body
+{
+    padding: 10%;
+    margin: 250px;
+    box-shadow: inset;
+    background-color: beige;
+}
+.confirm a{
+    text-decoration: none;
+    color: black;
+}
+
+.tableno
+{
+    border: 50px;
+}
